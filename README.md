@@ -12,7 +12,7 @@ To reproduce the experiments, please first download the official release of the 
 	cd Exp_digits
 	python3 train_digits.py --re_weighting 1 --initial_lr 1e-3 --train_samples 3000 # You can change number of training samples as you wish (3000, 5000, or 8000)
 	  
-## 3. To run the experiments on the four vision dataset:
+## 3. To run the experiments on vision dataset (PACS for example):
 	cd Exp_vision
 	python3 train.py --dataset pacs --initial_lr 2e-4 --ratio 0.1 # you can modify the ratio as you wish to run the experiments, you can replace pacs with office or office-home etc.. to run the exps.	
 
