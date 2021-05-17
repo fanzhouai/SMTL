@@ -33,12 +33,4 @@ If you feel this is helpful, please consider to cite our work,
 	  pages={early access},
 	  year={2021}}
 	  
-	@article{zhou2020task,
-		  author={Zhou, Fan and Shui, Changjian and Abbasi, Mahdieh and Robitaille, Louis-{\'E}mile and Wang, Boyu and Gagn{\'e}, Christian},
-		  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-		  title={Task Similarity Estimation Through Adversarial Multitask Neural Network},  year={2021},
-		  volume={32},
-		  number={2},
-		  pages={466-480},
-		  doi={10.1109/TNNLS.2020.3028022}}
 
