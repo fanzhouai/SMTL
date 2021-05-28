@@ -1,6 +1,5 @@
 # Semantic Multi-task Learning Algorithm
 
-Codes for AAAI 2021 paper 'Multi-task Learning by Leveraging the Semantic Information'
 
 
 ## 1. Download the dataset
@@ -22,15 +21,6 @@ To reproduce the experiments, please first download the official release of the 
 	python3 train.py --dataset office31 --initial_lr 2e-4 --ratio 0.2 --drift_ratio 0.1 # You can modify the drift_ratio as you wish (we report the results of drift ratio from 0.1 to 0.8)
 	python3 train.py --dataset office_home --initial_lr 2e-4 --ratio 0.2 --drift_ratio 0.5 # You can modify the drift_ratio as you wish (we report the results of drift ratio from 0.1 to 0.8)
 	
-### How to cite
 
-If you feel this is helpful, please consider to cite our work,
-	
-	@inproceedings{zhou2021multitask,
-	  title={Multi-task Learning by Leveraging the Semantic Information},
-	  author={Zhou, Fan and Chaib-draa, Brahim and Wang, Boyu},
-	  booktitle={AAAI},
-	  pages={early access},
-	  year={2021}}
 	  
 
