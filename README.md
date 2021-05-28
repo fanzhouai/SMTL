@@ -1,4 +1,4 @@
-# Semantic Multi-task Learning Algorithm
+# Semantic MTL Algorithm
 
 
 
