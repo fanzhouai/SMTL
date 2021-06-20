@@ -23,6 +23,7 @@ To reproduce the experiments, please first download the official release of the 
 
 ### How to cite
 If you think our work is helpful to your research, please consider to cite as,
+
 	@article{Zhou_Chaib-draa_Wang_2021, 
 		title={Multi-task Learning by Leveraging the Semantic Information}, 
 		volume={35}, 
